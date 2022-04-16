@@ -11,7 +11,7 @@ valPtr  is a pointer to the data, pair(KEY, VALUE)
 - valPtr->first   ==  KEY
 - calPtr->second  ==  VALUE
 
-#Public member functions:
+# Public member functions:
 
 bool    empty()
 - returns true if tree is empty, flase if not
