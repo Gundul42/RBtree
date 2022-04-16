@@ -5,7 +5,7 @@ using ft namespace:
 
 ft::RBtree<KEY, VALUE>
 
-Key must be a type which is compareable with > < = !=.
+Key must be a type which is compareable with > < == !=.
 
 
 # Types:
