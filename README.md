@@ -2,7 +2,7 @@
 A Red Black Tree template in C++ 98
 
 using ft namespace:
-RBtree<KEY, VALUE>
+ft::RBtree<KEY, VALUE>
 
 Key must be a type which is compareable with > < = !=.
 
