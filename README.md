@@ -54,9 +54,9 @@ deletion
 
 - deletes the element from the tree if key was found
 
-## *void* erase(KEY key, VALUE val)
+## *void* erase(KEY key)
 
-- overload for separated arguments key and val
+- overload for deletion by key only
 
 ## *void* insert(KEY key, VALUE val)
 

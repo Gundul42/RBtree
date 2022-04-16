@@ -6,7 +6,7 @@
 /*   By: graja <graja@student.42wolfsburg.de>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/09 15:14:23 by graja             #+#    #+#             */
-/*   Updated: 2022/04/16 15:30:12 by graja            ###   ########.fr       */
+/*   Updated: 2022/04/16 18:03:26 by graja            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@
 # include "utility.hpp"
 
 # ifndef RBT_DEBUG
-#  define RBT_DEBUG 1		//setting to 0 turns debug off
+#  define RBT_DEBUG 0		//setting to 0 turns debug off
 # endif
 
 namespace ft
